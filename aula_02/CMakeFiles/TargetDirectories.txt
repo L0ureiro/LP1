@@ -1,0 +1,3 @@
+/home/lucas.loureiro.117/Área de Trabalho/Cpp/LP1/aula_02/CMakeFiles/modularizacao.dir
+/home/lucas.loureiro.117/Área de Trabalho/Cpp/LP1/aula_02/CMakeFiles/edit_cache.dir
+/home/lucas.loureiro.117/Área de Trabalho/Cpp/LP1/aula_02/CMakeFiles/rebuild_cache.dir

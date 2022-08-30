@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -pedantic CMakeFiles/modularizacao.dir/modularizacao.cpp.o CMakeFiles/modularizacao.dir/conv.cpp.o -o modularizacao 
